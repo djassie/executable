@@ -1,0 +1,6 @@
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/crud-lib.dir
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/crud-exe.dir
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/crud-test.dir
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/test.dir
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/edit_cache.dir
+/home/jacobd/Downloads/example-crud/build/CMakeFiles/rebuild_cache.dir
